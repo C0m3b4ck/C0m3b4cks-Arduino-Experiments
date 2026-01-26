@@ -21,10 +21,19 @@ void setup() {
 }
 
 int randomize() {
-  int randNum = random(1, (1000 - randomizeCounter)); //the more times randomized, the smaller the randomization range
+  int randomizeCounterNum;
+  //prevents randomized number from not being smaller than 0
+  if (randomizeCounterNum <= 0) {
+  randomizeCounterNum = random(1, 1000);
+  } else {
+    randomizeCounterNum = randomizeCounter;
+  }
+
+  int randNum = random(1, (1000 - randomizeCounterNum)); //the more times randomized, the smaller the randomization range
   randomizeCounter = randomizeCounter + 1;
   String message = "Randomization no.: " + String(randomizeCounter) + " Randomized number: " + String(randNum) + " Max randomized number: " + String(1000 - randomizeCounter);
   Serial.println(message);  // Prints to Serial Monitor
+
   return randNum;  // Return value for delay use
 }
 
