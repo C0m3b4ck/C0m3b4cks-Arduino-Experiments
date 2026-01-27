@@ -3,4 +3,4 @@ A bunch of my experimental scripts made while I was learning Arduino.
 Started on the 26th of January, 2026.
 
 # Script list
-* RandBlink - randomized LED blinking, forked from example "Blink" script
+* <b>RandBlink</b> - randomized LED blinking, forked from example "Blink" script
