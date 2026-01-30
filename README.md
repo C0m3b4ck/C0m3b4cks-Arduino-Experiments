@@ -6,6 +6,7 @@ Started on the 26th of January, 2026.
 * remade scripts from <a href=https://elegoo.com>https://elegoo.com</a>
 * <b>pitches.h</b> library from <a href = https://gist.github.com/mikeputnam>@mikeputnam</a>
 * <b>servo.zip</b> library from <a href=https://github.com/arduino/>@arduino</a>
+* <b>keypad.zip</b> library from Mark Stanley and Alexander Brevig (mstanley@technologist.com and alexanderbrevig@gmail.com)
 
 # Script list
 <h2><a href="https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments/tree/main/LEDs">LEDs</a></h2>
