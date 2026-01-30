@@ -4,7 +4,7 @@ Started on the 26th of January, 2026.
 
 # Credits
 * scripts from <a href=https://elegoo.com>https://elegoo.com</a> for remaking
-* <b>pitches.h</b> library from @mikeputnam 
+* <b>pitches.h</b> library from <a href = https://gist.github.com/mikeputnam>@mikeputnam</a> 
 
 # Script list
 * <b>RandBlink</b> - randomized LED blinking, forked from example "Blink" script
