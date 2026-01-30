@@ -19,3 +19,5 @@ Started on the 26th of January, 2026.
 <br><b>* random_note_player_coherent</b> - plays random coherent notes from 87 note array (all from pitches.h)
 <h2><a href="https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments/tree/main/SERVO">SERVO</a></h2>
 <br><b>* random_servo_spin</b> - spins the servo by random increments with random delay
+<h2><a href="https://github.com/C0m3b4ck/C0m3b4cks-Arduino-Experiments/tree/main/KEYPAD">KEYPAD</a></h2>
+<br><b>* keypad_calculator</b> - calculator utilizing every button of the keypad
