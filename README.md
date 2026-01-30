@@ -2,6 +2,10 @@
 A bunch of my experimental scripts made while I was learning Arduino.
 Started on the 26th of January, 2026.
 
+# Credits
+* scripts from <a href=https://elegoo.com>https://elegoo.com</a> for remaking
+* <b>pitches.h</b> library from @mikeputnam 
+
 # Script list
 * <b>RandBlink</b> - randomized LED blinking, forked from example "Blink" script
 * <b>RGB-LED-SOS</b> and <b>rgb_led_sos</b> - gives blue Morse code signals using an RGB LED
