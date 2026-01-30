@@ -3,7 +3,7 @@ A bunch of my experimental scripts made while I was learning Arduino.
 Started on the 26th of January, 2026.
 
 # Credits
-* scripts from <a href=https://elegoo.com>https://elegoo.com</a> for remaking
+* remade scripts from <a href=https://elegoo.com>https://elegoo.com</a>
 * <b>pitches.h</b> library from <a href = https://gist.github.com/mikeputnam>@mikeputnam</a>
 * <b>servo.zip</b> library from <a href=https://github.com/arduino/>@arduino</a>
 
