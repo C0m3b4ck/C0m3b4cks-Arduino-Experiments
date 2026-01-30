@@ -11,3 +11,5 @@ Started on the 26th of January, 2026.
 * <b>RGB-LED-SOS</b> and <b>rgb_led_sos</b> - gives blue Morse code signals using an RGB LED
 * <b>rgb_led_flasher</b> - flashes every set intervals
 * <b>random-rgb</b> - random RGB LED with smooth transitions
+* <b>random-static-generator</b> - plays randomized sounds so quickly, it sounds like static
+* <b>random_note_player_coherent</b> - plays random coherent notes from 87 note array (all from pitches.h)
