@@ -1,3 +1,5 @@
+<br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/C0m3b4cks-Arduino-Experiments/total)
+<br><b>🇪🇺🇪🇺🇪🇺Made in Europe🇪🇺🇪🇺🇪🇺
 # C0m3b4ck's Arduino Experiments
 A bunch of my experimental scripts made while I was learning Arduino.
 Started on the 26th of January, 2026.
